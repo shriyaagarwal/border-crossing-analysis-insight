@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Problem](README.md#problem)
 2. [Important fields](README.md#important-fields)
-3. [Language and Libraries used](README.md#language-and-libraries-used)
+3. [Language used](README.md#language-used)
 4. [Steps taken](README.md#steps-taken)
 5. [Execution](README.md#execution)
 
@@ -20,7 +20,7 @@ The Bureau of Transportation Statistics regularly makes available data on the nu
 **Measure**: Indicates means, or type, of crossing being measured (e.g., vehicle, equipment, passenger or pedestrian)  
 **Value**: Number of crossings
 
-## Language and Libraries Used
+## Language Used
 I used Python3 as my coding language to solve this problem. I implemented the solution using basic data structure building blocks and software engineering best practices (by writing clean, modular, and well-tested code).
 
 ## Execution
