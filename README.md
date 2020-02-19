@@ -24,7 +24,7 @@ Value: Number of crossings
 I used Python3 as my coding language to solve this problem. I implemented the solution using basic data structure building blocks and software engineering best practices (by writing clean, modular, and well-tested code).
 
 ## Execution
-
+Utilised nested dictionries to sort the data into different categories and then aggregated the data based on the date and the border
 
 ## References
 (https://stackoverflow.com/questions/39680317/append-nested-dictionaries)
