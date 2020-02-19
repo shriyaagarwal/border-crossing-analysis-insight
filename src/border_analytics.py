@@ -4,6 +4,7 @@ from datetime import datetime
 class Record:
     """
     Class for records - Used to standard implementation which can be reused
+    
     """
     def __init__(self, port_name, state, port_code, border, date, measure, value):
         self.port_name = port_name
