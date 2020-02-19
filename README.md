@@ -15,10 +15,10 @@ The Bureau of Transportation Statistics regularly makes available data on the nu
 
 
 ## Important fields
-Border: Designates what border was crossed
-Date: Timestamp indicating month and year of crossing
-Measure: Indicates means, or type, of crossing being measured (e.g., vehicle, equipment, passenger or pedestrian)
-Value: Number of crossings
+**Border**: Designates what border was crossed  
+**Date**: Timestamp indicating month and year of crossing  
+**Measure**: Indicates means, or type, of crossing being measured (e.g., vehicle, equipment, passenger or pedestrian)  
+**Value**: Number of crossings
 
 ## Language and Libraries Used
 I used Python3 as my coding language to solve this problem. I implemented the solution using basic data structure building blocks and software engineering best practices (by writing clean, modular, and well-tested code).
